@@ -24,6 +24,17 @@
 │ (artifact)   │      │(notification)│
 └──────────────┘      └──────────────┘
 
+
+
+
+
+
+
+
+
+
+
+
 ↑
        │ all credentials retrieved at runtime
        │
