@@ -46,7 +46,7 @@ See `docs/01-architecture.md` for full details.
 
 ## Author
 
-Tarak Paruchu (tparuchu@depaul.edu)
+Tarak
 
 ## License
 
